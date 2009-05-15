@@ -1,5 +1,10 @@
 #summary The games design document.
 
+= Introduction =
+
+Add your content here.
+
+
 = Game Details =
 
 
