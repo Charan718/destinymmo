@@ -1,0 +1,16 @@
+#summary The games design document.
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+*Game Details*
+
+*Races*
+
+*Classes*
+
+*Locations*
